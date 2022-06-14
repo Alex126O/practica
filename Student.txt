@@ -1,0 +1,27 @@
+1 Arapu Valeria Sisteme-de-operare 8 Programare-Structurata 9 ADCP 8
+2 Balatel Nicon Sisteme-de-operare 5 Programare-Structurata 9 ADCP 8
+3 Beliesco Ignatie Sisteme-de-operare 6 Programare-Structurata 9 ADCP 8
+4 Bilhac Alexandru Sisteme-de-operare 9 Programare-Structurata 9 ADCP 8
+5 Bugor Alexandr Sisteme-de-operare 8 Programare-Structurata 9 ADCP 8
+6 Buliga Vladislav Sisteme-de-operare 8 Programare-Structurata 9 ADCP 8
+7 Cojuhari Marina Sisteme-de-operare 7 Programare-Structurata 9 ADCP 8
+8 Dolganiac Eduard Sisteme-de-operare 5 Programare-Structurata 9 ADCP 8
+9 Grosu Vasile Sisteme-de-operare 7 Programare-Structurata 9 ADCP 8
+10 Fodorcea Dumitru Sisteme-de-operare 9 Programare-Structurata 9 ADCP 8
+11 Gutu Nikita Sisteme-de-operare 8 Programare-Structurata 9 ADCP 8
+12 Iordachi Denis Sisteme-de-operare 9 Programare-Structurata 9 ADCP 8
+13 Josan Alexandru Sisteme-de-operare 10 Programare-Structurata 9 ADCP 8
+14 Mantea Denis Sisteme-de-operare 7 Programare-Structurata 9 ADCP 8
+15 Eremia Mihail Sisteme-de-operare 9 Programare-Structurata 9 ADCP 8
+16 Plamadeala Maxim Sisteme-de-operare 7 Programare-Structurata 9 ADCP 8
+17 Popusoi Vlad  Sisteme-de-operare 8 Programare-Structurata 9 ADCP 8
+18 Radu Stefan Sisteme-de-operare 8 Programare-Structurata 9 ADCP 8
+19 Railean David Sisteme-de-operare 9 Programare-Structurata 9 ADCP 8
+20 Scutaru Alexandrina Sisteme-de-operare 10 Programare-Structurata 9 ADCP 8
+21 Sirghi Vlad Sisteme-de-operare 7 Programare-Structurata 9 ADCP 8
+22 Sorocinichi Nichita Sisteme-de-operare 8  Programare-Structurata 9 ADCP 8
+23 Tabacaru Emilian Sisteme-de-operare 9  Programare-Structurata 9 ADCP 8
+24 Tabacaru Sabina Sisteme-de-operare 5 Programare-Structurata 9 ADCP 8
+25 Tapes Adelina Sisteme-de-operare 7 Programare-Structurata 9 ADCP 8
+26 Zugravu Eric Sisteme-de-operare 8 Programare-Structurata 9 ADCP 8
+27 Lilian Sisteme-de-operare 10 Programare-Structurata 9 ADCP 8
